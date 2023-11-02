@@ -30,11 +30,11 @@ To create a QR code design as below using the provided images, HTML code structu
 ![CSS-screenshot](CSS_screenshot.PNG)
 ## Solution Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/qr-code-component-challenge-solution-using-html-and-css-PtZSSA73YM))
 
 ## Useful resources
 
-- [Markdownguide.org](https://www.markdownguide.org) - This helped me for wrinting this markdown.
+- [Markdownguide.org](https://www.markdownguide.org) - This helped me for writing this markdown.
 - [W3Schools](https://www.w3schools.com) - A go-to-site for all our basic coding lessons and useful tips.
 
 ## Author
